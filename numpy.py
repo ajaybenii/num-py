@@ -1,4 +1,4 @@
 import numpy
 print(numpy.version.versu)
 
-str = "ajay"
+list = [1,2,3]
